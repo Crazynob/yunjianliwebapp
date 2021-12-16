@@ -1,10 +1,10 @@
-package red.fuyun.yunjianli;
+package red.fuyun.sercurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class YunjianliApplicationTests {
+class SercurityApplicationTests {
 
     @Test
     void contextLoads() {
