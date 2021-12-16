@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebffef05-5e9f-4aab-a9b2-ee72dba328c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/red/fuyun/yunjianli/YunjianliApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/red/fuyun/yunjianli/YunjianliApplicationTests.java" beforeDir="false" />
+    <list default="true" id="ebffef05-5e9f-4aab-a9b2-ee72dba328c0" name="Default Changelist" comment="第二次初始化项目">
+      <change beforePath="$PROJECT_DIR$/src/main/java/red/fuyun/yunjianli/YunjianliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sercurity/src/main/java/red/fuyun/sercurity/SercurityApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +81,7 @@
       <workItem from="1639362366892" duration="12894000" />
       <workItem from="1639463917330" duration="459000" />
       <workItem from="1639464392720" duration="2662000" />
-      <workItem from="1639614795670" duration="3016000" />
+      <workItem from="1639614795670" duration="3482000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1639197242097</created>
@@ -113,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639197438568</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第二次初始化项目">
+      <created>1639618046368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639618046368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +134,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="第二次初始化项目" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639617937195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639617937195" />
     <state x="765" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1639383357065">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -144,10 +146,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="317" y="312" width="915" height="595" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1639374005046" />
-    <state x="969" y="82" key="CommitChangelistDialog2" timestamp="1639197437787">
+    <state x="699" y="133" key="CommitChangelistDialog2" timestamp="1639618044185">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="969" y="82" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1639197437787" />
+    <state x="699" y="133" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618044185" />
     <state width="558" height="466" key="DebuggerActiveHint" timestamp="1639384939690">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -264,10 +266,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="512" y="229" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1639309038473" />
-    <state x="1104" y="236" key="Vcs.Push.Dialog.v2" timestamp="1639197444437">
+    <state x="886" y="242" key="Vcs.Push.Dialog.v2" timestamp="1639618050520">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1104" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1639197444437" />
+    <state x="886" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618050520" />
     <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1639215073047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

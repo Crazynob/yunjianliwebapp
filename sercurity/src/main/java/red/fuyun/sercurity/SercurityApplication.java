@@ -1,13 +1,13 @@
-package red.fuyun.yunjianli;
+package red.fuyun.sercurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class YunjianliApplication {
-//首次初始化初始化
+public class SercurityApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(YunjianliApplication.class, args);
+        SpringApplication.run(SercurityApplication.class, args);
     }
 
 }
