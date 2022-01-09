@@ -7,17 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="web" />
+        <module name="gateway" />
         <module name="sercurity" />
+        <module name="order" />
+        <module name="admin" />
+        <module name="common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sercurity" target="1.5" />
+      <module name="admin" target="8" />
+      <module name="common" target="8" />
+      <module name="gateway" target="8" />
+      <module name="order" target="1.5" />
+      <module name="security" target="7" />
+      <module name="sercurity" target="8" />
+      <module name="web" target="1.5" />
       <module name="yunjianli" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="sercurity" options="" />
+      <module name="security" options="" />
       <module name="yunjianli" options="" />
     </option>
   </component>

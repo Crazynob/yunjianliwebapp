@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: localhost
+    password: ccnl13145
+    timeout: 3000
+    port: 6379

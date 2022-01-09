@@ -1,0 +1,8 @@
+
+
+javadaily:
+  cloud:
+    onlyFetchByGateway: false
+spring:
+  application:
+    name: order

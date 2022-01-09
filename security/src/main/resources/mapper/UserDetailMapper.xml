@@ -1,0 +1,42 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="red.fuyun.mapper.UserDetailMapper">
+
+
+    <select id="findByUsername" resultType="red.fuyun.model.UserDo">
+        SELECT * FROM `user` WHERE username = #{username}
+    </select>
+
+
+    <resultMap id="userDo" type="red.fuyun.model.UserDo">
+        <id property="userId" column="user_id" />
+        <result property="username" column="username"/>
+        <result property="password" column="password"/>
+        <result property="phone" column="phone"/>
+        <result property="sex" column="sex"/>
+        <result property="status" column="status"/>
+
+        <collection property="roles" ofType="red.fuyun.model.Role">
+            <id property="roleId" column="role_id" />
+<!--            <result property="role" column="role" />-->
+        </collection>
+        <collection property="resources" ofType="red.fuyun.model.Resource">
+            <id property="resourceId" column="resource_id" />
+            <result property="resourceName" column="resource_name"/>
+            <result property="path" column="path"/>
+            <result property="method" column="method"/>
+            <result property="type" column="type"/>
+        </collection>
+
+    </resultMap>
+
+
+    <select id="findUserDetailByUsername" resultType="red.fuyun.model.UserDo" resultMap="userDo">
+SELECT u.user_id,u.username,u.`password`,u.phone,u.sex,u.`status`,ur.role_id, rr.resource_id,res.resource_name,res.path,res.method,res.type FROM
+`user` u INNER JOIN permission_user_role ur ON u.user_id = ur.user_id
+INNER JOIN permission_role_resource rr ON ur.role_id = rr.role_id
+INNER JOIN permission_resource res ON rr.resource_id = res.resource_id
+    </select>
+</mapper>

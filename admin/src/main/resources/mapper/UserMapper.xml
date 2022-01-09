@@ -1,0 +1,47 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="red.fuyun.mapper.UserMapper">
+
+    <select id="findMenuByUser" resultType="red.fuyun.model.Menu">
+        SELECT m.menu_id,m.menu_name,m.menu_parent,m.menu_path,m.menu_level FROM
+        (SELECT role_id FROM permission_user_role  where user_id =#{user.userId}) ur
+        INNER JOIN role_menu rm ON ur.role_id = rm.role_id
+        INNER JOIN menu m ON rm.menu_id = m.menu_id
+    </select>
+
+
+
+    <resultMap id="userid" type="red.fuyun.model.User">
+        <id column="user_id" property="userId"/>
+        <result column="username" property="username"/>
+        <result column="password" property="password"/>
+        <result column="phone" property="phone"/>
+        <result column="sex" property="sex"/>
+        <result column="status" property="status"/>
+
+        <collection property="role" ofType="red.fuyun.model.Role">
+            <id property="roleId" column="role_id"/>
+            <result property="role" column="role"/>
+        </collection>
+    </resultMap>
+
+    <select id="findUserByUsername" resultMap="userid">
+        SELECT u.user_id,u.username,u.`password`,u.phone,u.sex,u.`status`,r.role_id,r.role
+        FROM `user` u
+        INNER JOIN permission_user_role ur ON u.user_id = ur.user_id
+        INNER JOIN permission_role  r ON ur.role_id = r.role_id
+        WHERE username = #{username}
+    </select>
+
+
+    <select id="findResourceByUser" resultType="red.fuyun.model.Resource">
+        SELECT res.resource_id,res.resource_name,res.path,res.method,res.type FROM
+        (SELECT role_id FROM permission_user_role  where user_id = #{user.userId} ) ur
+        INNER JOIN permission_role_resource rr ON ur.role_id = rr.role_id
+        INNER JOIN permission_resource res ON rr.resource_id = res.resource_id
+    </select>
+
+
+</mapper>
