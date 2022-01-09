@@ -2,222 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebffef05-5e9f-4aab-a9b2-ee72dba328c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_79.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_annotations_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_core_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_boot_autoconfigure_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_boot_starter_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_ui_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_9_15_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_25_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_3_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/AdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/Interceptor/feign/FeignRequestInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/config/feign/FeignConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/controller/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/controller/LoginControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/FromBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/OauthResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/PayLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/model/feign/OauthBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/java/red/fuyun/service/feign/OauthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/Interceptor/CloudSecurityInterceptorConfigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/Interceptor/ServerProtectInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/aspect/ResponseAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/aspect/RestExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/config/CloudSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/model/CloudConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/model/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/model/ReturnCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/properties/CloudSecurityProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/red/fuyun/util/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/red/fuyun/GateWayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/red/fuyun/filter/GatewayRequestFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/red/fuyun/filter/PermissionCheckFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/red/fuyun/handler/GlobalErrorWebExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/red/fuyun/model/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/red/fuyun/model/ReturnCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/order.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/red/fuyun/OrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/red/fuyun/controller/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/SercurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/config/AuthoriztionServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/config/CHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/config/SercurityBaseConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/mapper/UserDetailMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/model/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/model/UserDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/java/red/fuyun/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/main/resources/mapper/UserDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/security/src/test/java/red/fuyun/sercurity/SercurityApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_30_1_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/src/main/java/red/fuyun/sercurity/SercurityApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sercurity/src/test/java/red/fuyun/sercurity/SercurityApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -396,7 +181,7 @@
       <workItem from="1641360887416" duration="11919000" />
       <workItem from="1641437317902" duration="1817000" />
       <workItem from="1641604076718" duration="666000" />
-      <workItem from="1641701720162" duration="1645000" />
+      <workItem from="1641701720162" duration="1974000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1639197242097</created>
@@ -440,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641703148462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第二次初始化项目">
+      <created>1641703901550</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641703901550</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,10 +303,10 @@
     </state>
     <state x="725" y="271" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1641265862937" />
     <state x="317" y="312" width="915" height="595" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1640002090498" />
-    <state x="190" y="62" key="CommitChangelistDialog2" timestamp="1641703141682">
+    <state x="146" y="40" key="CommitChangelistDialog2" timestamp="1641703900819">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="190" y="62" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703141682" />
+    <state x="146" y="40" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703900819" />
     <state x="699" y="133" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618351009" />
     <state width="581" height="454" key="DebuggerActiveHint" timestamp="1641398144496">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -664,10 +456,10 @@
     </state>
     <state x="512" y="223" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1640177914989" />
     <state x="512" y="229" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1639925581159" />
-    <state x="886" y="235" key="Vcs.Push.Dialog.v2" timestamp="1641703599568">
+    <state x="886" y="235" key="Vcs.Push.Dialog.v2" timestamp="1641703932288">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="886" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703599568" />
+    <state x="886" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703932288" />
     <state x="886" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618356449" />
     <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1641265653400">
       <screen x="0" y="0" width="1920" height="1050" />
