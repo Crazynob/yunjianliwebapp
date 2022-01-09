@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebffef05-5e9f-4aab-a9b2-ee72dba328c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ebffef05-5e9f-4aab-a9b2-ee72dba328c0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +51,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17338331" />
     <property name="project.structure.side.proportion" value="0.41843972" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -181,7 +179,7 @@
       <workItem from="1641360887416" duration="11919000" />
       <workItem from="1641437317902" duration="1817000" />
       <workItem from="1641604076718" duration="666000" />
-      <workItem from="1641701720162" duration="1974000" />
+      <workItem from="1641701720162" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1639197242097</created>
@@ -232,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641703901550</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第三次初始化项目">
+      <created>1641703991889</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641703991889</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +257,8 @@
     <MESSAGE value="初始化项目" />
     <MESSAGE value="再次初始化项目" />
     <MESSAGE value="第二次初始化项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次初始化项目" />
+    <MESSAGE value="第三次初始化项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次初始化项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="724" y="72" key="#Auto_Import" timestamp="1641362043438">
@@ -303,10 +309,10 @@
     </state>
     <state x="725" y="271" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1641265862937" />
     <state x="317" y="312" width="915" height="595" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1640002090498" />
-    <state x="146" y="40" key="CommitChangelistDialog2" timestamp="1641703900819">
+    <state x="146" y="40" key="CommitChangelistDialog2" timestamp="1641703991212">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="146" y="40" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703900819" />
+    <state x="146" y="40" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703991212" />
     <state x="699" y="133" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618351009" />
     <state width="581" height="454" key="DebuggerActiveHint" timestamp="1641398144496">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -451,15 +457,15 @@
     </state>
     <state x="490" y="190" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1641191784022" />
     <state x="490" y="195" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639930323629" />
-    <state x="512" y="223" key="SettingsEditor" timestamp="1640177914989">
+    <state x="512" y="199" key="SettingsEditor" timestamp="1641704268400">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="512" y="223" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1640177914989" />
+    <state x="512" y="199" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1641704268400" />
     <state x="512" y="229" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1639925581159" />
-    <state x="886" y="235" key="Vcs.Push.Dialog.v2" timestamp="1641703932288">
+    <state x="886" y="235" key="Vcs.Push.Dialog.v2" timestamp="1641703997170">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="886" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703932288" />
+    <state x="886" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703997170" />
     <state x="886" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618356449" />
     <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1641265653400">
       <screen x="0" y="0" width="1920" height="1050" />
