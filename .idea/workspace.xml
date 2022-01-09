@@ -396,7 +396,7 @@
       <workItem from="1641360887416" duration="11919000" />
       <workItem from="1641437317902" duration="1817000" />
       <workItem from="1641604076718" duration="666000" />
-      <workItem from="1641701720162" duration="840000" />
+      <workItem from="1641701720162" duration="1645000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1639197242097</created>
@@ -433,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639618351910</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第二次初始化项目">
+      <created>1641703148462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641703148462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,9 +511,10 @@
     </state>
     <state x="725" y="271" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1641265862937" />
     <state x="317" y="312" width="915" height="595" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1640002090498" />
-    <state x="699" y="133" key="CommitChangelistDialog2" timestamp="1639618351009">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="190" y="62" key="CommitChangelistDialog2" timestamp="1641703141682">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="190" y="62" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703141682" />
     <state x="699" y="133" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618351009" />
     <state width="581" height="454" key="DebuggerActiveHint" timestamp="1641398144496">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -656,9 +664,10 @@
     </state>
     <state x="512" y="223" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1640177914989" />
     <state x="512" y="229" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1639925581159" />
-    <state x="886" y="242" key="Vcs.Push.Dialog.v2" timestamp="1639618356449">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="886" y="235" key="Vcs.Push.Dialog.v2" timestamp="1641703599568">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="886" y="235" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1641703599568" />
     <state x="886" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1639618356449" />
     <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1641265653400">
       <screen x="0" y="0" width="1920" height="1050" />
